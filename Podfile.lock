@@ -1,0 +1,38 @@
+PODS:
+  - DSF_QRCode (17.0.0):
+    - SwiftImageReadWrite (~> 1.4.1)
+    - SwiftQRCodeGenerator (~> 2.0.2)
+  - ProgressHUD (14.1.0)
+  - Realm (10.45.2):
+    - Realm/Headers (= 10.45.2)
+  - Realm/Headers (10.45.2)
+  - RealmSwift (10.45.2):
+    - Realm (= 10.45.2)
+  - SwiftImageReadWrite (1.4.1)
+  - SwiftQRCodeGenerator (2.0.2)
+
+DEPENDENCIES:
+  - DSF_QRCode
+  - ProgressHUD
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - DSF_QRCode
+    - ProgressHUD
+    - Realm
+    - RealmSwift
+    - SwiftImageReadWrite
+    - SwiftQRCodeGenerator
+
+SPEC CHECKSUMS:
+  DSF_QRCode: fec2a51ac5dc7c6723fbcad51c8e588471557984
+  ProgressHUD: c4a55f108815c46a6bf082407d2f806840b7a869
+  Realm: bc4fc31783a0b3e355edca05f167f6a49c544dc2
+  RealmSwift: 234003b5fdb187c4b439d478662636d62a1f9de0
+  SwiftImageReadWrite: d416b34d18dc583e3b62c5d37eb3dc529e7d94fc
+  SwiftQRCodeGenerator: cc02fed209335064d0b0dd61b2a0874b9bc6bd5a
+
+PODFILE CHECKSUM: d8e43e8462a8c7d500db81728ccbe5484069273a
+
+COCOAPODS: 1.12.1
